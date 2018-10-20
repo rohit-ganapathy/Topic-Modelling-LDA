@@ -14,11 +14,11 @@ https://towardsdatascience.com/light-on-math-machine-learning-intuitive-guide-to
 * glob2==0.6
 * autocorrect==0.3.0
 
-## Dataset
+### Dataset
  * 8888 NYT news articles : https://www.kaggle.com/nzalake52/new-york-times-articles
  
 
-## Getting Started
+### Getting Started
  * run.py --n_topics -> create database and run topic modeller
  * view_topics.py --n_topics -> view topics  
 
