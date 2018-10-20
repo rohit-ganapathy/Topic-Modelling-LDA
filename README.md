@@ -19,13 +19,15 @@ https://towardsdatascience.com/light-on-math-machine-learning-intuitive-guide-to
  
 
 ### Getting Started
+ * extract files.zip it contains the data set as well as empty directories to store dictionaries and models 
  * run.py --n_topics -> create database and run topic modeller
  * view_topics.py --n_topics --gram -> gram can be "unigram" or "both" 
 
 
 ### Notes
 
-* I have tried my best to pre-process the documents (eg remove stopwords) but I encourage further tweaking in that respect.
+* I have tried my best to pre-process the documents (eg remove stopwords) but I encourage further tweaking in that respect
+* contractions.py has a list of all the words/ phrases to weed out.
 * I have designed the program to generate two models. One that uses only unigrams and one that utilizes both unigrams as well as   bigrams.
 * Although setting the number of topics is an arbitrary hyper-parameter,there are a number of heuristics that can be used to set  the optimum number of topics:https://cran.r-project.org/web/packages/ldatuning/vignettes/topics.html
 * I have skipped over that part but might incorporate it in a future update.
