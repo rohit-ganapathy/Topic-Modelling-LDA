@@ -20,7 +20,7 @@ https://towardsdatascience.com/light-on-math-machine-learning-intuitive-guide-to
 
 ### Getting Started
  * run.py --n_topics -> create database and run topic modeller
- * view_topics.py --n_topics -> view topics  
+ * view_topics.py --n_topics --gram -> gram can be "unigram" or "both" 
 
 
 ### Notes
