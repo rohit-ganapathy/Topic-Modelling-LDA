@@ -14,7 +14,7 @@ https://towardsdatascience.com/light-on-math-machine-learning-intuitive-guide-to
 * glob2==0.6
 * autocorrect==0.3.0
 
-## Getting Started
+## Dataset
  * 8888 NYT news articles : https://www.kaggle.com/nzalake52/new-york-times-articles
  
 
