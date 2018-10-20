@@ -1,4 +1,4 @@
-# Topic-Modelling using LDA(Latent Dirichlet Allocation)
+# Topic-Modelling using LDA (Latent Dirichlet Allocation)
 A topic modeller that uses Latent Dirichlet Allocation to identify multiple clusters(or topics) of key-phrases within a collection of documents. This  technique is especially useful when it comes to tasks like document classification and article reccommendation.
 
 The following link offers a concise intuitive explanation of what LDA achieves and the math going on under the hood:
